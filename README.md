@@ -15,33 +15,14 @@ The purpose of this project was to build a robust classification model using mac
 ### Technologies
 * Python
 * Pandas, jupyter
+* etc.
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+* Dataset
+  * The analysis utilized a dataset of 81 patients diagnosed with kyphosis. The dataset included clinical and radiographic features such as Age (in months), Number of vertebrae involved, Start vertebra, and the target variable Kyphosis (0 for absent, 1 for present).
+* Methodology
+  * Preprocessing: The dataset was preprocessed by performing a train-test split. Additionally, the features dataset (Age, Number, Start) was scaled to ensure proper model training.
+* Models Considered
+  * Three machine learning models were employed: Logistic Regression, Decision Tree Classifier, and Random Forest Classifier.
+  * Evaluation: The performance of the models was evaluated using classification reports and confusion matrices. The metrics assessed included precision, recall, F1-score, and accuracy.
 
-## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
-
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
