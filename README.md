@@ -26,3 +26,7 @@ The purpose of this project was to build a robust classification model using mac
   * Three machine learning models were employed: Logistic Regression, Decision Tree Classifier, and Random Forest Classifier.
   * Evaluation: The performance of the models was evaluated using classification reports and confusion matrices. The metrics assessed included precision, recall, F1-score, and accuracy.
 
+## Deliverables
+* [Kyphosis Detection Using Machine Learning (Slide Deck)](https://docs.google.com/presentation/d/1xVoKq7FPeHivvjZY_m2OOMKS1V3jSkXLzsX6HduuNNc/edit?usp=sharing)
+
+* [Kyphosis Detection Using Machine Learning (Notebook)](https://github.com/Talha-Fasih-Khan/Deep-Learning-for-Real-Estate-Price-Prediction/blob/44df85fb05c8027bf268930e19a84439e1700aea/Deep%20Learning%20for%20Real%20Estate%20Price%20Prediction.ipynb)
