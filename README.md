@@ -29,4 +29,4 @@ The purpose of this project was to build a robust classification model using mac
 ## Deliverables
 * [Kyphosis Detection Using Machine Learning (Slide Deck)](https://docs.google.com/presentation/d/1xVoKq7FPeHivvjZY_m2OOMKS1V3jSkXLzsX6HduuNNc/edit?usp=sharing)
 
-* [Kyphosis Detection Using Machine Learning (Notebook)](https://github.com/Talha-Fasih-Khan/Deep-Learning-for-Real-Estate-Price-Prediction/blob/44df85fb05c8027bf268930e19a84439e1700aea/Deep%20Learning%20for%20Real%20Estate%20Price%20Prediction.ipynb)
+* [Kyphosis Detection Using Machine Learning (Notebook)](https://github.com/Talha-Fasih-Khan/Machine-Learning-for-Kyphosis-Disease-Classification/blob/321a49bd287233794e514b35c5a01f7cb8a8c032/Machine%20Learning%20for%20Kyphosis%20Disease%20Classification.ipynb)
